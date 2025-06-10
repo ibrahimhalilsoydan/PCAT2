@@ -1,0 +1,27 @@
+{
+  "name": "pcat",
+  "version": "1.0.0",
+  "description": "PCAT Photo App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibrahimhalilsoydan/PCAT2.git"
+  },
+  "keywords": [
+    "photo",
+    "app",
+    "camera"
+  ],
+  "author": "ibrahim halil soydan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ibrahimhalilsoydan/PCAT2/issues"
+  },
+  "homepage": "https://github.com/ibrahimhalilsoydan/PCAT2#readme",
+  "devDependencies": {
+    "prettier": "3.5.3"
+  }
+}
